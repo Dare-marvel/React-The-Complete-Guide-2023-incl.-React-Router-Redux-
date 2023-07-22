@@ -83,3 +83,6 @@
  [Free code camp](https://www.freecodecamp.org/news/context-api-in-react/)
  ####  Refs<br>
  [LogRocket](https://blog.logrocket.com/complete-guide-react-refs/)
+
+#### Forward Refs<br>
+ [LogRocket](https://blog.logrocket.com/use-forwardref-react/#:~:text=Forwarding%20refs%20in%20React%20using%20forwardRef,When%20a%20child&text=Ref%20forwarding%20is%20a%20technique,ref%20to%20a%20child%20component.)
